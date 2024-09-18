@@ -1,5 +1,5 @@
 <h1 align="center">Hi Everyone 👋, I'm Hunaiva Kintan</h1>
-<h3 align="center">A graduated statistics student who is deeply passionate about continuous learning and have a strong affinity for working with data. I have interest in data analysis and visualization.</h3>
+<h3 align="center">A data-driven Statistics graduate with strong skills in analyzing data and utilizing data tools to transform complex data into valuable insights that support strategic decision-making. Experienced in handling organizational projects with a proven ability to collaborate across teams and manage multiple tasks in fast-paced environments.</h3>
 
 
 - 🌱 I’m currently focusing on learning **data analysis and data science**
